@@ -27,6 +27,7 @@ public class fight {
 	System.out.println("was geht");
 	
 		
+	System.out.println("thing it");
 	}
 
 }
