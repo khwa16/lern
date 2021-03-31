@@ -24,6 +24,8 @@ public class fight {
 		}
 	}while(task);
 	
+	System.out.println("was geht");
+	
 		
 	}
 
